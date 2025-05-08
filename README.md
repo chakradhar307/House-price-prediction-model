@@ -1,4 +1,6 @@
-Project Title: Predicting House Prices through RandomForestRegressor 
+Boston-housing-price-prediction-model
+
+Project Title: Predicting House Prices through RandomForestRegressor
 
 Objective The goal was to construct a predictive model to estimate the value of a house using several features of the house based on linear regression.
 
